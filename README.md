@@ -10,8 +10,8 @@
 
 My name is Jair and ... 
 
-- 👋 I'm realy like to learn
-- 👀 I’m working with Ruby on Rails
+- 👋 Learning to learn
+- 👀 I’m learning Ruby on Rails
 - 🌱 Currently studying 
 - :robot: And I also like to travel
 
