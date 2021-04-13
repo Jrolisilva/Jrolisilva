@@ -3,6 +3,7 @@
 # Jair Silva :man_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jair-silva-03a8791b7/)](https://www.linkedin.com/in/jair-silva-03a8791b7/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jroliveira.sa@gmail.com)](mailto:Jroliveira.sa@gmail.com)
 
 
 ### Hello! Welcome to my profile
