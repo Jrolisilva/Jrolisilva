@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
+<img align="right" width="500" height="400" src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 # Jair Silva :man_technologist:
 
