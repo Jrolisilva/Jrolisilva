@@ -1,3 +1,5 @@
+<img align="right" width="600" height="400" src="https://s3.amazonaws.com/prod-media.gameinformer.com/styles/body_default/s3/2019/05/21/a5e3468a/spider.jpg">
+
 # Jair Silva :man_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jair-silva-03a8791b7/)](https://www.linkedin.com/in/jair-silva-03a8791b7/)
