@@ -1,4 +1,4 @@
-<img align="right" width="600" height="400" src="https://s3.amazonaws.com/prod-media.gameinformer.com/styles/body_default/s3/2019/05/21/a5e3468a/spider.jpg">
+<img align="right" width="500" height="400" src="https://s3.amazonaws.com/prod-media.gameinformer.com/styles/body_default/s3/2019/05/21/a5e3468a/spider.jpg">
 
 # Jair Silva :man_technologist:
 
