@@ -3,8 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jair-silva-03a8791b7/)](https://www.linkedin.com/in/jair-silva-03a8791b7/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jroliveira.sa@gmail.com)](mailto:Jroliveira.sa@gmail.com)
 
-### Hello! Welcome to my profile
-
+### Hello there!
+#### I may not have gone where I intended to go, but I think I have ended up where I needed do be
 <a href="https://github.com/Jrolisilva/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jrolisilva&show_icons=true&theme=dark&include_all_commits=trues&count_private=true" />
 </a>
