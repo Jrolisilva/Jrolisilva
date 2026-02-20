@@ -6,7 +6,7 @@
 ### Hello there!
 #### I may not have gone where I intended to go, but I think I have ended up where I needed do be
 <a href="https://github.com/Jrolisilva/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jrolisilva&show_icons=true&theme=dark&include_all_commits=trues&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jrolisilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/Jrolisilva/convoychat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrolisilva&layout=compact&langs_count=16&theme=dark" />
