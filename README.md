@@ -8,12 +8,12 @@
 
 Backend engineer with 5+ years of experience building scalable financial systems and high-throughput APIs.
 
-I have strong experience working with:
+I have experience working with:
 
 - Payment systems (Pix, refunds, QR Code flows)
 - Monolith and Microservices architectures
 - Background jobs (Sidekiq / Redis)
-- PostgreSQL optimization & data modeling
+- DataBases optimization & data modeling
 - AWS (S3, ECR, Lambda)
 - Docker & CI/CD pipelines
 
